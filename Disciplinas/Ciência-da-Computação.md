@@ -4,9 +4,9 @@
 * :heavy_minus_sign:  Não Iniciado
 
 
-### Tecnólogo em Análise e Desenvolvimento de Sistemas
+### Ciência da Computação
 
-#### Obrigatórias
+#### Disciplinas Obrigatórias
 
 | Nome                                                                        | Período |   Concluido? |
 | --------------------------------------------------------------------------- |:-:| :----------------: |
