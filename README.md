@@ -12,7 +12,7 @@ Sou desenhista na área do realismo (P & B e Colorido), também adoro fazer arte
 Universidade Federal de Alagoas - Campus Arapiraca - Ciência da Computação <br>
 2 º Período atualmente - Finalização em 2025
 
-[_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md#Ciência-da-Computação)
+[_Clique aqui para ver as disciplinas do curso._](Disciplinas/Ciência-da-Computação.md)
 
 Play Educação - Centro Arapiraca/AL - Informática Profissionalizante <br>
 Concluído em 2021
