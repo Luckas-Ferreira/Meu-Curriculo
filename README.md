@@ -35,10 +35,16 @@ Concluído em 2021
 
 * (Iniciado em 2022) <br>
 **Santander Bootcamp Fullstack Developer** - Bootcamp para aprimorar os conhecimentos na área de Desenvolvimento Web.
-  * HTML/CSS3/JavaScrip
-  * Angular
-  * Java
-  * Spring Framework
+  * ![icons8-html-5-16](https://user-images.githubusercontent.com/107446934/174411368-0467e90e-0ee1-41e8-b739-c6ab6f0b0375.png)
+HTML / ![icons8-css3-16](https://user-images.githubusercontent.com/107446934/174411416-5b970bb7-6173-4611-bbae-98ea966e9e5b.png)
+CSS3 / ![icons8-javascript-16](https://user-images.githubusercontent.com/107446934/174411645-2f895ca1-7ab4-4a90-b7e2-4697b45f4a34.png)
+JavaScrip
+  * ![icons8-angularjs-16](https://user-images.githubusercontent.com/107446934/174411228-0599ea8e-5bfc-479e-a5eb-ca2a61c55e62.png)
+ Angular
+  * ![icons8-logo-java-coffee-cup-16](https://user-images.githubusercontent.com/107446934/174411286-84e2bf07-9f2b-4e7b-8af9-bed9741a420e.png)
+ Java
+  * ![spring-framework-icon (1)](https://user-images.githubusercontent.com/107446934/174412276-0602d7da-5974-4e93-be1b-e93d97c93626.png)
+Spring Framework
 
 
 ## Conhecimentos
