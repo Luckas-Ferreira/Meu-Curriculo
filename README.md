@@ -24,6 +24,7 @@ Concluído em 2021
   * Segurança na era digital
   * Windows 10 
   * Office 2019
+  * Photoshop 2019
 
 
 * (Concluído em 2022) <br>
@@ -64,7 +65,7 @@ Spring Framework
   * Arquitetura BEM
 
 ### Linguagens de Programação
-* Java
+* Java.
 * JavaScrip.
 * Python.
 
