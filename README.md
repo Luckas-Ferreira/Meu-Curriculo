@@ -78,6 +78,7 @@ Spring Framework
 
 ## Redes Sociais
 *  [Instagram](https://www.instagram.com/luckas_.ferreira/)
+*  [Linkedin](https://www.linkedin.com/in/luckas-ferreira-49a7a219b/)
 
 
 ## Help me!
