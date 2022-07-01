@@ -18,7 +18,7 @@
 | SOCIEDADE E CULTURA                                                         | 1 | :heavy_check_mark: |
 | MATEMÁTICA DISCRETA                                                         | 2 | :heavy_plus_sign: |
 | CIRCUITOS E SISTEMAS DIGITAIS                                               | 2 | :heavy_plus_sign: |
-| ESTRUTURAS DE DADOS                                                         | 2 | :heavy_plus_sign: |
+| ESTRUTURAS DE DADOS                                                         | 2 | :heavy_check_mark: |
 | CÁLCULO 1                                                                   | 2 | :heavy_plus_sign: |
 | GEOMETRIA ANALÍTICA                                                         | 2 | :heavy_plus_sign: |
 | SOCIEDADE E DESENVOLVIMENTO                                                 | 2 | :heavy_plus_sign: |
