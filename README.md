@@ -10,7 +10,7 @@ Sou desenhista na área do realismo (P & B e Colorido), também adoro fazer arte
 
 ## Formação
 Universidade Federal de Alagoas - Campus Arapiraca - Ciência da Computação <br>
-2 º Período atualmente - Finalização em 2025
+2 º Período concluido - Finalização em 2025
 
 [_Clique aqui para ver as disciplinas do curso._](Disciplinas/Ciência-da-Computação.md)
 
