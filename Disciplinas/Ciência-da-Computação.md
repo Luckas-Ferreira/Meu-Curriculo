@@ -4,6 +4,7 @@
 * :heavy_minus_sign:  Não Iniciado
 
 
+
 ### Ciência da Computação
 
 #### Disciplinas Obrigatórias
